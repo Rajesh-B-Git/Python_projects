@@ -1,0 +1,11 @@
+This is text file created in cmd
+
+
+
+:q
+exit
+
+
+
+yes
+no
